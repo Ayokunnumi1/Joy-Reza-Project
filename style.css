@@ -2,7 +2,7 @@ body{
     margin: 0;
     background-repeat:no-repeat;
     background-size: cover;
-    background-image: linear-gradient(rgba(26, 22, 22, 0.5), purple), url("img/docs-freepik1170x658v2.jpg");
+    background-image: linear-gradient(rgba(58, 58, 158, 0.8), rgb(186, 113, 187)), url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
     height: 230vh;
     opacity: 0.8;
     padding: 0px;
@@ -14,7 +14,7 @@ header{
     text-align: center;
 }
 #container{
-    background-color: rgba(81, 36, 140,0.5);
+    background-color:#4a4444;
     /* margin: 0 200px; */
     width: 60vw;
     display: flex;
